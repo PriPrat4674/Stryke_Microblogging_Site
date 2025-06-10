@@ -1,1 +1,1 @@
-# Styke Microblogging Site
+# Stryke Microblogging Site
